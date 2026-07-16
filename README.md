@@ -1,0 +1,17 @@
+Grupo 169
+
+Participantes:
+
+Rogesson Barboza da Silva Souza
+rogessonb@gmail.com
+RM: RM373923
+Discord: _resque
+
+Robson Cezar Rodrigues Rocha
+rcrrocha@icloud.com
+RM: RM370218
+Discord: robsonrocha_40845
+
+Repositório da Aplicação: https://github.com/rogesson/toggle-master-cluster
+
+Vídeo: https://youtu.be/HiYCPIlKkaM?si=MPPJfWoGNqFos92K&t=12
